@@ -1,2 +1,2 @@
 # Poll
-How to count votes ratio
+How to count votes ratio in Rattia^^)
